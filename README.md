@@ -87,5 +87,6 @@ P5	50	85
          (iii). what is the A.W.T for the process?
 
 
+![image](https://github.com/foysalRabbi/Operating-System-Interview-Viva-Question-in-Software-Company-/assets/87640335/71f0dd63-4cd2-4fc1-b749-d3b4ed7b3fac)
 
 

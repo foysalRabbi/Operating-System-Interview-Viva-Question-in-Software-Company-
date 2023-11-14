@@ -47,15 +47,7 @@ iv)	Segmentation
 34.	Linux এর নিচের Command গুলোর কাজ লিখ।                            
 •	Pwd, Mkdir, IS-a, Cat, CP, MV
 35.	Consider the following table of process:
-
-Process	Arrival time	Burst time
-P1	0.0	8
-P2	0.4	4
-P3	1.0	1
-
-Find the following facts for both preemptive and non-preemptive scheduling
-(a)	What is the average turnaround time for those processes with the FCFS scheduling Algorithm?
-(b)	What is the average turnaround time for those processes with the SJF scheduling Algorithm?
+![image](https://github.com/foysalRabbi/Operating-System-Interview-Viva-Question-in-Software-Company-/assets/87640335/58c89355-7fda-42c8-8e1c-ea5e2651be19)
 
 
 

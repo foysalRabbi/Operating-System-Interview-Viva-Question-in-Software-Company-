@@ -57,34 +57,6 @@ Find the following facts for both preemptive and non-preemptive scheduling
 (a)	What is the average turnaround time for those processes with the FCFS scheduling Algorithm?
 (b)	What is the average turnaround time for those processes with the SJF scheduling Algorithm?
 
-37. Consider the following set of processes, with the length of  CPU Burst time given milliseconds
-
-Process	Burst Time	Priority
-P1	10	3
-P2	1	1
-P3	2	3
-P4	1	4
-P5	5	2
-      
-      (i). Draw the Gantt charts of these processes using FCFS, SJF, priority 
-             And RR (Round Robin) (Quantum time=1ms) Scheduling.
-      (ii). what is the turn-around time of which process for each of the
-             Scheduling algorithms in part a?
-      (iii). What is the waiting time of each process for each of the scheduling 
-             Algorithms In part a?
-      (iv). what is the average waiting time of each scheduling algorithm?
-38. Consider the following table:              
-Job	B.T	A.T
-P1	80	0
-P2	20	10
-P3	10	10
-P4	20	80
-P5	50	85
-         (i). Suppose a System uses RR Scheduling with a quantum of 15.
-             Create a Gantt chart illustrating the execution of these
-              Processes.
-         (ii). what is the turnaround time for process P3?
-         (iii). what is the A.W.T for the process?
 
 
 ![image](https://github.com/foysalRabbi/Operating-System-Interview-Viva-Question-in-Software-Company-/assets/87640335/71f0dd63-4cd2-4fc1-b749-d3b4ed7b3fac)
